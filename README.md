@@ -4,7 +4,7 @@
 
 This project explores the correlation structure of 27 commodity futures spanning five major sectors — grains, softs, livestock, energy, and metals — using fifteen years of daily price data (2010–2025). The goal is not just to visualize relationships between assets, but to test, statistically, whether commodities genuinely group by economic sector or whether apparent patterns are mainly statistical noise.
 
-This distinction matters. Visualizations of correlation networks are common in finance, but they can be misleading if taken at face value: Visualizations of correlation networks are common in finance, but they can be misleading if interpreted at face value. Weak correlations may arise from common macroeconomic shocks, changing market regimes, or sampling variability, even when no stable economic relationship exists. This project explicitly distinguishes between visual patterns and statistically supported evidence.
+This distinction matters. Visualizations of correlation networks are common in finance, but they can be misleading if interpreted at face value: Weak correlations may arise from common macroeconomic shocks, changing market regimes, or sampling variability, even when no stable economic relationship exists. This project explicitly distinguishes between visual patterns and statistically supported evidence.
 
 ## Data
 
